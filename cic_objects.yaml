@@ -1,0 +1,55 @@
+chair:
+  - chair
+table:
+  - table
+screen:
+  - screen
+  - screen on the table
+  - screen with a stand
+  - black rectangular screen
+wall:
+  - wall
+  - white wall
+  - blue wall
+painting:
+  - painting on the wall
+whiteboard:
+  - whiteboard on the wall
+  - standing whiteboard
+cabinet:
+  - storage cabinet
+  - wood cabinet
+  - white cabinet
+  - black cabinet under the table
+floor:
+  - floor
+ceiling:
+  - ceiling
+door:
+  - door
+light:
+  - table lamp
+  - hangling light
+camera:
+  - camera
+case:
+  - computer case under the table
+vent:
+  - vent in the floor
+  - vent in the wall
+bag:
+  - backpack on the floor
+bookshelf:
+  - bookshelf
+plants:
+  - plants
+curtains:
+  - curtains
+bottle:
+  - water bottle
+cup:
+  - cup
+  - glass cup
+  - mug
+background:
+  - background
