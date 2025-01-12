@@ -2,7 +2,6 @@
 conda create --name dino_sam2 python=3.12
 conda activate dino_sam2
 
-pip install --no-cache-dir https://github.com/huggingface/transformers/archive/refs/tags/v4.48.0.tar.gz
 pip install --no-cache-dir https://github.com/IDEA-Research/Grounded-SAM-2/archive/refs/tags/v1.0.tar.gz
 
 pip install -e byte_track
